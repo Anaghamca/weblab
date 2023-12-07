@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-require('connect.php');
+require('connect2.php');
 if(isset($_POST['sub']))
 {
 $bname=$_POST['book_Name'];
